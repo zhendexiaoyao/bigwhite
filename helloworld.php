@@ -4,4 +4,5 @@
  * @copyright Copyright (c) 2018 MiGuo.Cn
  */
 echo 'hello world';
+echo 'the second step';
 ?>
